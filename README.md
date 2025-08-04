@@ -34,17 +34,16 @@ A modular, portable RetroPie-powered console with a custom-built Bluetooth gamep
 |---------|---------|
 | ![Image 5](image5.jpg) | ![Image 6](image6.jpg) |
 
-| Image 7 |
-|---------|
-| ![Image 7](image7.jpg) |
+| Image 7 | Image 8 |
+|---------|---------|
+| ![Image 7](image7.jpg) | ![Image 8](image8.jpg) |
 
-| Image 8 |
-|---------|
-| ![Image 8](image8.jpg) |
-
-| Image 9 |
-|---------|
+| Sliding Mechanism |
+|---------|---------|
 | ![Image 9](image9.jpg) |
+
+
+
 
 > Game shown: *Zelda – Ocarina of Time (N64)* running via lr-mupen64plus
 
