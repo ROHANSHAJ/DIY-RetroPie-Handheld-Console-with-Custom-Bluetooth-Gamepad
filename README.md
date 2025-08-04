@@ -22,27 +22,26 @@ A modular, portable RetroPie-powered console with a custom-built Bluetooth gamep
 
 ## 📷 Project Images
 
-| Image 1 | Image 2 |
+| CONNECTED | DETACHED  |
 |---------|---------|
 | ![Image 1](image1.jpg) | ![Image 2](image2.jpg) |
 
-| Image 3 | Image 4 |
+| RASPBERRY PI 3B | ON TABLE |
 |---------|---------|
 | ![Image 3](image3.jpg) | ![Image 4](image4.jpg) |
 
-| Image 5 | Image 6 |
+| GAMPEPAD INTERNALS | CONSOLE INTERNALS |
 |---------|---------|
 | ![Image 5](image5.jpg) | ![Image 6](image6.jpg) |
 
-| Image 7 | Image 8 |
+| BOTTOM VIEW 1 | BACK VIEW 2 |
 |---------|---------|
 | ![Image 7](image7.jpg) | ![Image 8](image8.jpg) |
 
-| Sliding Mechanism |
-FOR CONNECTION BETWEEN CONSOLE AND GAMEPAD
+Sliding Mechanism 
+FOR CONNECTION BETWEEN CONSOLE AND GAMEPAD MADE from TV cable covers
 
 
-> Game shown: *Zelda – Ocarina of Time (N64)* running via lr-mupen64plus
 
 ---
 
@@ -50,4 +49,4 @@ FOR CONNECTION BETWEEN CONSOLE AND GAMEPAD
 
 I wanted a modular, retro-inspired handheld console that uses a CRT-style screen and my own custom Bluetooth controller. It’s fully DIY, built from spare parts and designed for retro gaming fun.
 
-
+---BT gamepad ino file is given dualpad2.ino 
