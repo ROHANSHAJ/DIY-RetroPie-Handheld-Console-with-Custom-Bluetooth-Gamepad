@@ -9,7 +9,7 @@ A modular, portable RetroPie-powered console with a custom-built Bluetooth gamep
 - **Raspberry Pi** running RetroPie OS
 - **5-inch composite car display** in a custom case (connected via 3.5mm headphone jack for video + audio)
 - **4x 18650 Li-ion batteries** with **2S 20A BMS**
-- **XL4015 buck converter** for powering Pi and cooling fan
+- **XL4015 buck converter** for powering Pi ,amplifier display and cooling fan
 - **PAM8403 amplifier** with onboard speaker
 - **Bluetooth controller** using:
   - 2 Arduino joystick shields
