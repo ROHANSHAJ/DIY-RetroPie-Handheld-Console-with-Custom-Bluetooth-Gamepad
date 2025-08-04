@@ -17,6 +17,7 @@ A modular, portable RetroPie-powered console with a custom-built Bluetooth gamep
   - ESP32 with **BleGamepad** library
   - Separate 3.7V Li-ion battery + TP4056 charger
   - LED indicator for Bluetooth status
+- Both CASE is from electric switch boxes.
 
 ---
 
